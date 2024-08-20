@@ -1,5 +1,5 @@
 {
-  "author": "MENTAL",
+  "author": "MOHAMMAD AJIM",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -11,13 +11,13 @@
   "PREFIX": "/",
   "OPERATOR": [
     "100004315652286",
-    "100095452021274"
+    "100000959749712"
   ],
   "ADMINBOT": [
-    "100095452021274",
-    "100004315652286"
+    "100004315652286",
+    "61557164277017"
   ],
-  "OWNER": ["100095452021274"], 
+  "OWNER": ["100000959749712"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
